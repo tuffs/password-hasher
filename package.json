@@ -1,0 +1,14 @@
+{
+  "name": "passwordhasher",
+  "version": "1.0.0",
+  "description": "Just creates encrypted passwords with a strength of 10",
+  "main": "passwordHash.js",
+  "scripts": {
+    "hash": "node password-hasher.js"
+  },
+  "author": "Devon Kiss",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
+  }
+}
