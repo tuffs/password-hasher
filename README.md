@@ -10,6 +10,6 @@ To use this software:
 
 3. Use with `node password-hasher.js --password=<password> --output-file=<output-file>` or: `node password-hasher.js --password <password> --output-file <output-file>` 
 
-Alternatively, you may use the command set `npm run hash -- --password=<password> --output-file=<output-file>` or: `node password-hasher.js --password <password> --output-file <output-file>`.
+Alternatively, you may use the command set `npm run hash -- --password=<password> --output-file=<output-file>`. 
 
 This project was developed by Devon Kiss Studios to quickly generate hashed passwords for initial administrative accounts using the bcryptjs NPM package. Feel free to use this freely without attribution, this project is protected under the MIT open-source license, as indicated in the package.json file.
