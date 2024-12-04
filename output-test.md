@@ -1,0 +1,2 @@
+Hashed password:
+$2a$10$SfRuIRU8sHz7UmLDJLHRkupoQgcIMTvsRvamLFNkXEJvhTDiC1VSu
